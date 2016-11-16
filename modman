@@ -1,1 +1,4 @@
+app/code/local/Mage/Catalog/Model/Category/Api.php
 app/code/local/Mage/Sales/Model/Order.php
+app/code/local/Mage/SalesRule/Model/Observer.php
+downloader/.htaccess
