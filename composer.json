@@ -1,0 +1,7 @@
+{
+    "name":"mswebdesign/mswebdesign-magento-bugfixes",
+    "type":"magento-module",
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}
