@@ -1,4 +1,5 @@
 app/code/local/Mage/Catalog/Model/Category/Api.php
+app/code/local/Mage/Core/Model/File/Validator/Image.php
 app/code/local/Mage/Reports/Model/Resource/Quote/Collection.php
 app/code/local/Mage/Sales/Model/Order.php
 app/code/local/Mage/SalesRule/Model/Observer.php
