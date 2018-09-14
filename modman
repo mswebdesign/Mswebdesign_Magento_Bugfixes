@@ -3,5 +3,6 @@ app/code/local/Mage/Customer/Helper/Data.php
 app/code/local/Mage/Reports/Model/Resource/Quote/Collection.php
 app/code/local/Mage/Sales/Model/Order.php
 app/code/local/Mage/SalesRule/Model/Observer.php
+app/code/local/Mage/Shipping/Model/Carrier/Abstract.php
 app/code/local/Zend/Http/Client/Adapter/Socket.php
 downloader/.htaccess
