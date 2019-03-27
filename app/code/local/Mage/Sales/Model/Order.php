@@ -1537,14 +1537,6 @@ class Mage_Sales_Model_Order extends Mage_Sales_Model_Abstract
     }
 
     /**
-     * @param Mage_Sales_Model_Resource_Order_Item_Collection $items
-     */
-    public function setItemsCollection(Mage_Sales_Model_Resource_Order_Item_Collection $items)
-    {
-        $this->_items = $items;
-    }
-
-    /**
      * Get random items collection with related children
      *
      * @param int $limit
